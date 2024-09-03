@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "5388000000011288",
+      "name": "OCR-Application",
+      "domain": {
+        "id": "50021750850",
+        "name": "ocr-application-60025231139.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60025231139",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
